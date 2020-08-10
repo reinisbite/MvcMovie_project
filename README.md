@@ -1,7 +1,7 @@
 # MvcMovie_project
 
 
-#Create a web app with ASP.NET Core MVC
+# Create a web app with ASP.NET Core MVC
 
 Create a web app.
 
